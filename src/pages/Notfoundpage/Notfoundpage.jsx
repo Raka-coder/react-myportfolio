@@ -11,9 +11,11 @@ function Notfound() {
       <Helmet>
         <title>{title} | Raka</title>
       </Helmet>
-      <Navbar />
-      <NotFound404 />
-      <Footer />
+      <body className="dark:bg-zinc-950 antialiased flex flex-col items-center justify-center mx-auto mt-2 lg:mt-8 mb-20 lg:mb-40">
+        <Navbar />
+        <NotFound404 />
+        <Footer />
+      </body>
     </>
   );
 }

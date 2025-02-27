@@ -26,7 +26,7 @@ const list = [
     title: "Smart Home",
     year: "2024",
     description:
-      "Smart Home, This allows users to control smart devices at home using sound through Google Home devices or mobile devices equipped with Google Assistant, this system uses Wemos D1 Mini as a microcontroller, relay as an actuator, Sinric Pro as a cloud service that provides an easy-to-use API (Application Programming Interface) for integrating devices with Google Home applications.",
+      "Smart Home, This project allows users to control smart devices at home using voice commands, Google Home devices or mobile devices equipped with Google Assistant.",
   },
 ];
 

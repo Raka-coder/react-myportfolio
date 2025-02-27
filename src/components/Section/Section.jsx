@@ -15,6 +15,7 @@ function Section() {
                 height={120}
                 className="rounded-full bg-gray-100 block lg:mt-5 mt-0 lg:mb-5 mb-10 sm:float-right sm:ml-5 sm:mb-5 grayscale-25 hover:grayscale-0 -mr-36 transition duration-150"
                 alt=""
+                loading="lazy"
                 title="Raka Restu Saputra"
               />
             </Link>
@@ -25,7 +26,6 @@ function Section() {
               in IT field & computer engineering.
             </p>
           </div>
-
           <p className="text-lg mb-6 text-zinc-100">
             My interests extend to Internet of Things (IoT), computer
             networking, hardware, and web development.
